@@ -6,7 +6,7 @@
 
 # My Portfolio
 <p align="left">
-  <a src="https://sou004002.github.io/my-portfolio/">Portfolio</a>
+  [Portfolio](https://sou004002.github.io/my-portfolio/)
 </p>
 
 # My Skills
