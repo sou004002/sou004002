@@ -5,9 +5,9 @@
 </p>
 
 # My Portfolio
-<p align="left">
+
   [Portfolio](https://sou004002.github.io/my-portfolio/)
-</p>
+
 
 # My Skills
 <img src="https://skillicons.dev/icons?i=python,js,typescript,dart,nest,django,fastapi,mongodb,sqlite,prisma,github,vscode" /> <br /><br />
