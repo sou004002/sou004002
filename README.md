@@ -10,4 +10,4 @@
 
 
 # My Skills
-<img src="https://skillicons.dev/icons?i=python,C++,C#,unity,java,html,css,js,react,github,vscode" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,github,vscode" /> <br /><br />
