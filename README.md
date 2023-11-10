@@ -6,8 +6,8 @@
 
 # My Portfolio
 
-  [Portfolio](https://sou004002.github.io/my-portfolio/)
+  [Portfolioはこちらから](https://sou004002.github.io/my-portfolio/)
 
 
 # My Skills
-<img src="https://skillicons.dev/icons?i=python,js,typescript,dart,nest,django,fastapi,mongodb,sqlite,prisma,github,vscode" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,js,React,github,vscode" /> <br /><br />
